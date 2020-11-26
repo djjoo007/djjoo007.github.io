@@ -144,6 +144,12 @@ header {
     max-width: 125px;
 }
 
+.logo:hover {
+    opacity: 1;
+    background: #4CD7D0;
+    transform: scale(1.2);
+}
+
 .nav {
     position: fixed;
     background: var(--clr-dark);
